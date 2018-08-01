@@ -1,2 +1,2 @@
 # Practice
-研修内容より
+Java研修　ECsite
